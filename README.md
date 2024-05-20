@@ -1,3 +1,3 @@
 # Profiles REST API
 
-Profiles REST API project code
+Profiles REST API project code.
